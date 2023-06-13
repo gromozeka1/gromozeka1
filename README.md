@@ -25,9 +25,6 @@ https://github.com/anuraghazra/github-readme-stats
 ### Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gromozeka1)
 
-![GitHub metrics](https://metrics.lecoq.io/gromozeka1)
-
-![Profile views](https://gpvc.arturio.dev/gromozeka1)
 <!---
 gromozeka1/gromozeka1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
