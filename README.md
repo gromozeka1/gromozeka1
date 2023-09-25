@@ -1,5 +1,4 @@
-### Hey 👋, I'm Andrei Nekrashevich
-[<img src='https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='20'>](https://www.linkedin.com/in/andrei-nekrashevich-60aa4873/)  
+### Hey 👋, I'm Andrei Nekrashevich 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
